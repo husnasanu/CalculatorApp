@@ -1,0 +1,24 @@
+*{
+  background-color: darkorange;
+  border-radius: 10px;
+}
+button{
+  background-color: white;
+  width: 80px;
+  height: 80px;
+  border-radius: 5px;
+}
+button:hover{
+  background-color: black;
+  color: white;
+}
+.col-6{
+  background-color: white;
+}
+.input1{
+  text-align: right;
+  background-color: black;
+  color: white;
+  border-radius: 5px;
+  width: 100%;
+}
